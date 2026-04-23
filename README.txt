@@ -1,13 +1,13 @@
-Got it — you want it clean, readable, but still visually engaging like a real GitHub project. Here’s your **same README with emojis added (no `#` or `*`, just structured text + icons)**:
-
----
 
 🛡 SOC Analyst Dashboard
 
 A Security Operations Center (SOC)-inspired network scanning dashboard built with Python and Streamlit.
 It performs port scanning, identifies high-risk services, tracks scan history, and provides real-time analytics through an interactive web interface.
 
----
+👤 AUTHOR
+
+Bright Chiwendu Goodluck
+🛡 Cybersecurity Enthusiast | SOC Analyst Path
 
 📌 OVERVIEW
 
@@ -22,7 +22,7 @@ This project simulates a basic SOC environment where a user (analyst) can:
 
 It demonstrates core cybersecurity concepts such as network scanning, threat identification, and monitoring workflows.
 
----
+
 
 🚀 FEATURES
 
@@ -47,7 +47,7 @@ Stores previous scans for reference
 📁 Report Generation
 Saves scan results in structured JSON format
 
----
+
 
 🧰 TECHNOLOGIES USED
 
@@ -57,7 +57,7 @@ Saves scan results in structured JSON format
 🧵 Threading (concurrent.futures)
 📄 JSON
 
----
+
 
 🖥 HOW IT WORKS
 
@@ -69,7 +69,7 @@ Saves scan results in structured JSON format
 6️⃣ Results are displayed in dashboard
 7️⃣ Scan is saved in history and reports
 
----
+
 
 🔐 DEMO LOGIN CREDENTIALS
 
@@ -78,7 +78,7 @@ Saves scan results in structured JSON format
 
 ⚠ This is a demo authentication system.
 
----
+
 
 📸 SCREENSHOTS
 
@@ -94,7 +94,7 @@ screenshots/scan-results.png
 📊 Analytics
 screenshots/analytics.png
 
----
+
 
 ▶️ HOW TO RUN LOCALLY
 
@@ -112,13 +112,12 @@ streamlit run dashboard.py
 or
 py -3 -m streamlit run dashboard.py
 
----
+
 
 🌐 LIVE DEMO
 
 👉 https://soc-analyst-dashboard.streamlit.app
 
----
 
 📊 USE CASES
 
@@ -130,7 +129,7 @@ This project can be used to:
 💼 Demonstrate cybersecurity portfolio skills
 📡 Learn network scanning fundamentals
 
----
+
 
 🔥 FUTURE IMPROVEMENTS
 
@@ -140,16 +139,11 @@ This project can be used to:
 🧪 Advanced vulnerability detection
 📡 Real-time threat intelligence API integration
 
----
+
 
 ⚠ DISCLAIMER
 
 This tool is for educational purposes only.
 Do not use it on systems without proper authorization.
 
----
 
-👤 AUTHOR
-
-Bright Chiwendu Goodluck
-🛡 Cybersecurity Enthusiast | SOC Analyst Path
