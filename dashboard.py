@@ -4,7 +4,15 @@ from scanner import scan_target
 from history import save_history, load_history
 from report_utils import save_json_report
 
-require_login()
+import streamlit as st
+from auth import login
+
+if "logged_in" not in st.session_state:
+    st.session_state["logged_in"] = False
+    
+if not st.session_state["logged_in"]:
+    login()
+    st.stop()
 
 st.title("🛡 SOC Port Scanner Dashboard")
 

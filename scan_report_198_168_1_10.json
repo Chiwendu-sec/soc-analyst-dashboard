@@ -1,0 +1,12 @@
+{
+    "target": "198.168.1.10",
+    "scan_time": "2026-04-23 20:05:01",
+    "results": [
+        {
+            "port": 21,
+            "service": "FTP",
+            "status": "OPEN",
+            "risk": "HIGH"
+        }
+    ]
+}

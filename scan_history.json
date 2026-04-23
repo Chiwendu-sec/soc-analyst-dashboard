@@ -1,0 +1,26 @@
+[
+    {
+        "target": "198.168.1.10",
+        "time": "2026-04-23 20:05:01",
+        "results": [
+            {
+                "port": 21,
+                "service": "FTP",
+                "status": "OPEN",
+                "risk": "HIGH"
+            }
+        ]
+    },
+    {
+        "target": "198.162.1.10",
+        "time": "2026-04-23 20:06:51",
+        "results": [
+            {
+                "port": 21,
+                "service": "FTP",
+                "status": "OPEN",
+                "risk": "HIGH"
+            }
+        ]
+    }
+]
